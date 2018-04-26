@@ -1,1 +1,1 @@
-[] Main chain怎样验证side chain的区块
+- [ ] Main chain怎样验证side chain的区块
